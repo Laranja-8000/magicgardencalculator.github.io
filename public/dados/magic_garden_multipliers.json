@@ -1,0 +1,177 @@
+[
+  {
+    "Multiplier_id": 0,
+    "Condition": "None",
+    "Base": 1,
+    "Golden": 25,
+    "Rainbow": 50
+  },
+  {
+    "Multiplier_id": 1,
+    "Condition": "Wet/Chilled",
+    "Base": 2,
+    "Golden": 50,
+    "Rainbow": 100
+  },
+  {
+    "Multiplier_id": 2,
+    "Condition": "Frozen",
+    "Base": 6,
+    "Golden": 150,
+    "Rainbow": 300
+  },
+  {
+    "Multiplier_id": 3,
+    "Condition": "Thunderstruck",
+    "Base": 5,
+    "Golden": 125,
+    "Rainbow": 250
+  },
+  {
+    "Multiplier_id": 4,
+    "Condition": "Thundercharged",
+    "Base": 7,
+    "Golden": 175,
+    "Rainbow": 350
+  },
+  {
+    "Multiplier_id": 5,
+    "Condition": "Dawnlit",
+    "Base": 4,
+    "Golden": 100,
+    "Rainbow": 200
+  },
+  {
+    "Multiplier_id": 6,
+    "Condition": "Dawnbound",
+    "Base": 7,
+    "Golden": 175,
+    "Rainbow": 350
+  },
+  {
+    "Multiplier_id": 7,
+    "Condition": "Amberlit",
+    "Base": 6,
+    "Golden": 150,
+    "Rainbow": 300
+  },
+  {
+    "Multiplier_id": 8,
+    "Condition": "Amberbound",
+    "Base": 10,
+    "Golden": 250,
+    "Rainbow": 500
+  },
+  {
+    "Multiplier_id": 9,
+    "Condition": "Wet/Chilled+Dawnlit",
+    "Base": 5,
+    "Golden": 125,
+    "Rainbow": 250
+  },
+  {
+    "Multiplier_id": 10,
+    "Condition": "Wet/Chilled+Dawnbound",
+    "Base": 8,
+    "Golden": 200,
+    "Rainbow": 400
+  },
+  {
+    "Multiplier_id": 11,
+    "Condition": "Wet/Chilled+Amberlit",
+    "Base": 7,
+    "Golden": 175,
+    "Rainbow": 350
+  },
+  {
+    "Multiplier_id": 12,
+    "Condition": "Wet/Chilled+Amberbound",
+    "Base": 11,
+    "Golden": 275,
+    "Rainbow": 550
+  },
+  {
+    "Multiplier_id": 13,
+    "Condition": "Frozen+Dawnlit",
+    "Base": 9,
+    "Golden": 225,
+    "Rainbow": 450
+  },
+  {
+    "Multiplier_id": 14,
+    "Condition": "Frozen+Dawnbound",
+    "Base": 12,
+    "Golden": 300,
+    "Rainbow": 600
+  },
+  {
+    "Multiplier_id": 15,
+    "Condition": "Frozen+Amberlit",
+    "Base": 11,
+    "Golden": 275,
+    "Rainbow": 550
+  },
+  {
+    "Multiplier_id": 16,
+    "Condition": "Frozen+Amberbound",
+    "Base": 15,
+    "Golden": 375,
+    "Rainbow": 750
+  },
+  {
+    "Multiplier_id": 17,
+    "Condition": "Thunderstruck+Dawnlit",
+    "Base": 8,
+    "Golden": 200,
+    "Rainbow": 400
+  },
+  {
+    "Multiplier_id": 18,
+    "Condition": "Thunderstruck+Dawnbound",
+    "Base": 11,
+    "Golden": 275,
+    "Rainbow": 550
+  },
+  {
+    "Multiplier_id": 19,
+    "Condition": "Thunderstruck+Amberlit",
+    "Base": 10,
+    "Golden": 250,
+    "Rainbow": 500
+  },
+  {
+    "Multiplier_id": 20,
+    "Condition": "Thunderstruck+Amberbound",
+    "Base": 14,
+    "Golden": 350,
+    "Rainbow": 700
+  },
+  {
+    "Multiplier_id": 21,
+    "Condition": "Thundercharged+Dawnlit",
+    "Base": 10,
+    "Golden": 250,
+    "Rainbow": 500
+  },
+  {
+    "Multiplier_id": 22,
+    "Condition": "Thundercharged+Dawnbound",
+    "Base": 13,
+    "Golden": 325,
+    "Rainbow": 650
+  },
+  {
+    "Multiplier_id": 23,
+    "Condition": "Thundercharged+Amberlit",
+    "Base": 12,
+    "Golden": 300,
+    "Rainbow": 600
+  },
+  {
+    "Multiplier_id": 24,
+    "Condition": "Thundercharged+Amberbound",
+    "Base": 16,
+    "Golden": 400,
+    "Rainbow": 800
+  }
+]

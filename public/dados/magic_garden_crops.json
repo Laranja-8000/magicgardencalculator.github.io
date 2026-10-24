@@ -1,0 +1,578 @@
+[
+  {
+    "Crop_id": 1,
+    "Crop_name": "Dawnbreaker",
+    "Seed_price": 10000000,
+    "Base_Sell_price": 12000000,
+    "Base_Weight_kg": 100,
+    "Max_Weight_kg": 300,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 2,
+    "Crop_name": "Dawnbinder",
+    "Seed_price": 10000000000,
+    "Base_Sell_price": 11000000,
+    "Base_Weight_kg": 6,
+    "Max_Weight_kg": 15,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 3,
+    "Crop_name": "Moonbinder",
+    "Seed_price": 50000000000,
+    "Base_Sell_price": 11000000,
+    "Base_Weight_kg": 2,
+    "Max_Weight_kg": 4,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 4,
+    "Crop_name": "Starweaver",
+    "Seed_price": 1000000000,
+    "Base_Sell_price": 10000000,
+    "Base_Weight_kg": 10,
+    "Max_Weight_kg": 20,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 5,
+    "Crop_name": "Milkcap",
+    "Seed_price": 1000000,
+    "Base_Sell_price": 3000000,
+    "Base_Weight_kg": 2,
+    "Max_Weight_kg": 6,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 6,
+    "Crop_name": "Ube",
+    "Seed_price": 1000000,
+    "Base_Sell_price": 2000000,
+    "Base_Weight_kg": 3.5,
+    "Max_Weight_kg": 10.5,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 7,
+    "Crop_name": "Stormcap",
+    "Seed_price": null,
+    "Base_Sell_price": 1000000,
+    "Base_Weight_kg": 1,
+    "Max_Weight_kg": 2,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 8,
+    "Crop_name": "Sunflower",
+    "Seed_price": 100000000,
+    "Base_Sell_price": 750000,
+    "Base_Weight_kg": 10,
+    "Max_Weight_kg": 25,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 9,
+    "Crop_name": "Violet Cort",
+    "Seed_price": 520000,
+    "Base_Sell_price": 600000,
+    "Base_Weight_kg": 2,
+    "Max_Weight_kg": 7,
+    "Max_Size_Multiplier": 3.5
+  },
+  {
+    "Crop_id": 10,
+    "Crop_name": "Bamboo",
+    "Seed_price": 400000,
+    "Base_Sell_price": 500000,
+    "Base_Weight_kg": 1,
+    "Max_Weight_kg": 2,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 11,
+    "Crop_name": "Cactus",
+    "Seed_price": 200000,
+    "Base_Sell_price": 220000,
+    "Base_Weight_kg": 1500,
+    "Max_Weight_kg": 2700,
+    "Max_Size_Multiplier": 1.8
+  },
+  {
+    "Crop_id": 12,
+    "Crop_name": "Passion Fruit",
+    "Seed_price": 2750000,
+    "Base_Sell_price": 200000,
+    "Base_Weight_kg": 9.5,
+    "Max_Weight_kg": 19,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 13,
+    "Crop_name": "Mushroom",
+    "Seed_price": 150000,
+    "Base_Sell_price": 160000,
+    "Base_Weight_kg": 2.5,
+    "Max_Weight_kg": 8.75,
+    "Max_Size_Multiplier": 3.5
+  },
+  {
+    "Crop_id": 14,
+    "Crop_name": "Cacao",
+    "Seed_price": 10000000,
+    "Base_Sell_price": 150000,
+    "Base_Weight_kg": 0.5,
+    "Max_Weight_kg": 1.25,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 15,
+    "Crop_name": "Eggplant",
+    "Seed_price": 500000,
+    "Base_Sell_price": 100000,
+    "Base_Weight_kg": 0.5,
+    "Max_Weight_kg": 1.25,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 16,
+    "Crop_name": "Thunderpeel",
+    "Seed_price": 3000000000,
+    "Base_Sell_price": 100000,
+    "Base_Weight_kg": 1,
+    "Max_Weight_kg": 2,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 17,
+    "Crop_name": "Pine Tree",
+    "Seed_price": 12000,
+    "Base_Sell_price": 75000,
+    "Base_Weight_kg": 1000,
+    "Max_Weight_kg": 3500,
+    "Max_Size_Multiplier": 3.5
+  },
+  {
+    "Crop_id": 18,
+    "Crop_name": "Prickly Pear",
+    "Seed_price": 700000,
+    "Base_Sell_price": 75000,
+    "Base_Weight_kg": 0.15,
+    "Max_Weight_kg": 375,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 19,
+    "Crop_name": "Cardoon",
+    "Seed_price": 30000,
+    "Base_Sell_price": 50000,
+    "Base_Weight_kg": 0.6,
+    "Max_Weight_kg": 1.8,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 20,
+    "Crop_name": "Saffron",
+    "Seed_price": 30000,
+    "Base_Sell_price": 50000,
+    "Base_Weight_kg": 0.03,
+    "Max_Weight_kg": 0.09,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 21,
+    "Crop_name": "Grape",
+    "Seed_price": 850000,
+    "Base_Sell_price": 50000,
+    "Base_Weight_kg": 3,
+    "Max_Weight_kg": 6,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 22,
+    "Crop_name": "Lemon",
+    "Seed_price": 2000000,
+    "Base_Sell_price": 50000,
+    "Base_Weight_kg": 0.5,
+    "Max_Weight_kg": 1.5,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 23,
+    "Crop_name": "Lychee",
+    "Seed_price": 25000000,
+    "Base_Sell_price": 50000,
+    "Base_Weight_kg": 9,
+    "Max_Weight_kg": 18,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 24,
+    "Crop_name": "Leek",
+    "Seed_price": 15000,
+    "Base_Sell_price": 35000,
+    "Base_Weight_kg": 0.4,
+    "Max_Weight_kg": 1.2,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 25,
+    "Crop_name": "Poinsettia",
+    "Seed_price": 500000,
+    "Base_Sell_price": 30000,
+    "Base_Weight_kg": 0.02,
+    "Max_Weight_kg": 0.04,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 26,
+    "Crop_name": "Dragon Fruit",
+    "Seed_price": 5000000,
+    "Base_Sell_price": 30000,
+    "Base_Weight_kg": 8.4,
+    "Max_Weight_kg": 16.8,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 27,
+    "Crop_name": "Lily",
+    "Seed_price": 20000,
+    "Base_Sell_price": 20123,
+    "Base_Weight_kg": 0.02,
+    "Max_Weight_kg": 55,
+    "Max_Size_Multiplier": 2.75
+  },
+  {
+    "Crop_id": 28,
+    "Crop_name": "Lavender",
+    "Seed_price": 10000,
+    "Base_Sell_price": 20000,
+    "Base_Weight_kg": 0.02,
+    "Max_Weight_kg": 0.06,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 29,
+    "Crop_name": "Chrysanthemum",
+    "Seed_price": 670000,
+    "Base_Sell_price": 18000,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.0275,
+    "Max_Size_Multiplier": 2.75
+  },
+  {
+    "Crop_id": 30,
+    "Crop_name": "Date",
+    "Seed_price": 750000,
+    "Base_Sell_price": 15000,
+    "Base_Weight_kg": 0.02,
+    "Max_Weight_kg": 0.04,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 31,
+    "Crop_name": "Coconut",
+    "Seed_price": 10000,
+    "Base_Sell_price": 12000,
+    "Base_Weight_kg": 5,
+    "Max_Weight_kg": 15,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 32,
+    "Crop_name": "Variegated Cattail",
+    "Seed_price": null,
+    "Base_Sell_price": 11111,
+    "Base_Weight_kg": 0.03,
+    "Max_Weight_kg": 75,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 33,
+    "Crop_name": "Gentian",
+    "Seed_price": 9000,
+    "Base_Sell_price": 10000,
+    "Base_Weight_kg": 0.02,
+    "Max_Weight_kg": 0.06,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 34,
+    "Crop_name": "Purple Daisy",
+    "Seed_price": 100,
+    "Base_Sell_price": 9999,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 25,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 35,
+    "Crop_name": "Peach",
+    "Seed_price": 85000,
+    "Base_Sell_price": 9000,
+    "Base_Weight_kg": 0.18,
+    "Max_Weight_kg": 0.54,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 36,
+    "Crop_name": "Double Snowdrop",
+    "Seed_price": null,
+    "Base_Sell_price": 8888,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.0185,
+    "Max_Size_Multiplier": 1.85
+  },
+  {
+    "Crop_id": 37,
+    "Crop_name": "Four-Leaf Clover",
+    "Seed_price": null,
+    "Base_Sell_price": 7777,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.03,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 38,
+    "Crop_name": "Squash",
+    "Seed_price": 55000,
+    "Base_Sell_price": 7000,
+    "Base_Weight_kg": 0.3,
+    "Max_Weight_kg": 0.75,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 39,
+    "Crop_name": "Pepper",
+    "Seed_price": 1000000,
+    "Base_Sell_price": 7000,
+    "Base_Weight_kg": 0.5,
+    "Max_Weight_kg": 1,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 40,
+    "Crop_name": "Burro's Tail",
+    "Seed_price": 93000,
+    "Base_Sell_price": 6000,
+    "Base_Weight_kg": 0.4,
+    "Max_Weight_kg": 1,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 41,
+    "Crop_name": "Camellia",
+    "Seed_price": 55000,
+    "Base_Sell_price": 4875,
+    "Base_Weight_kg": 0.3,
+    "Max_Weight_kg": 0.75,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 42,
+    "Crop_name": "Pumpkin",
+    "Seed_price": 3000,
+    "Base_Sell_price": 3700,
+    "Base_Weight_kg": 6,
+    "Max_Weight_kg": 18,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 43,
+    "Crop_name": "Echeveria",
+    "Seed_price": 2500,
+    "Base_Sell_price": 3200,
+    "Base_Weight_kg": 0.8,
+    "Max_Weight_kg": 2.2,
+    "Max_Size_Multiplier": 2.75
+  },
+  {
+    "Crop_id": 44,
+    "Crop_name": "Pear",
+    "Seed_price": 6000,
+    "Base_Sell_price": 3000,
+    "Base_Weight_kg": 0.17,
+    "Max_Weight_kg": 0.34,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 45,
+    "Crop_name": "Watermelon",
+    "Seed_price": 2500,
+    "Base_Sell_price": 2708,
+    "Base_Weight_kg": 4.5,
+    "Max_Weight_kg": 13.5,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 46,
+    "Crop_name": "Cattail",
+    "Seed_price": 4000,
+    "Base_Sell_price": 1800,
+    "Base_Weight_kg": 0.03,
+    "Max_Weight_kg": 75,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 47,
+    "Crop_name": "Baa",
+    "Seed_price": 15000,
+    "Base_Sell_price": 1750,
+    "Base_Weight_kg": 0.12,
+    "Max_Weight_kg": 204,
+    "Max_Size_Multiplier": 1.7
+  },
+  {
+    "Crop_id": 48,
+    "Crop_name": "Daffodil",
+    "Seed_price": 1000,
+    "Base_Sell_price": 1090,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.03,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 49,
+    "Crop_name": "Apple",
+    "Seed_price": 500,
+    "Base_Sell_price": 800,
+    "Base_Weight_kg": 0.18,
+    "Max_Weight_kg": 0.36,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 50,
+    "Crop_name": "Tulip",
+    "Seed_price": 600,
+    "Base_Sell_price": 767,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.03,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 51,
+    "Crop_name": "Delphinium",
+    "Seed_price": null,
+    "Base_Sell_price": 530,
+    "Base_Weight_kg": 0.02,
+    "Max_Weight_kg": 0.06,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 52,
+    "Crop_name": "Beet",
+    "Seed_price": 210,
+    "Base_Sell_price": 350,
+    "Base_Weight_kg": 0.3,
+    "Max_Weight_kg": 0.9,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 53,
+    "Crop_name": "Aloe",
+    "Seed_price": 135,
+    "Base_Sell_price": 310,
+    "Base_Weight_kg": 1.5,
+    "Max_Weight_kg": 3.75,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 54,
+    "Crop_name": "Rose",
+    "Seed_price": 229,
+    "Base_Sell_price": 300,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.04,
+    "Max_Size_Multiplier": 4
+  },
+  {
+    "Crop_id": 55,
+    "Crop_name": "Snowdrop",
+    "Seed_price": 300,
+    "Base_Sell_price": 250,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.0185,
+    "Max_Size_Multiplier": 1.85
+  },
+  {
+    "Crop_id": 56,
+    "Crop_name": "Daisy",
+    "Seed_price": 100,
+    "Base_Sell_price": 130,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 25,
+    "Max_Size_Multiplier": 2.5
+  },
+  {
+    "Crop_id": 57,
+    "Crop_name": "Cabbage",
+    "Seed_price": 30,
+    "Base_Sell_price": 42,
+    "Base_Weight_kg": 1,
+    "Max_Weight_kg": 3,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 58,
+    "Crop_name": "Corn",
+    "Seed_price": 1300,
+    "Base_Sell_price": 36,
+    "Base_Weight_kg": 1.2,
+    "Max_Weight_kg": 2.4,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 59,
+    "Crop_name": "Clover",
+    "Seed_price": 170,
+    "Base_Sell_price": 30,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.03,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 60,
+    "Crop_name": "Fava Bean",
+    "Seed_price": 250,
+    "Base_Sell_price": 30,
+    "Base_Weight_kg": 0.03,
+    "Max_Weight_kg": 0.09,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 61,
+    "Crop_name": "Tomato",
+    "Seed_price": 800,
+    "Base_Sell_price": 27,
+    "Base_Weight_kg": 0.3,
+    "Max_Weight_kg": 0.6,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 62,
+    "Crop_name": "Blueberry",
+    "Seed_price": 400,
+    "Base_Sell_price": 23,
+    "Base_Weight_kg": 0.01,
+    "Max_Weight_kg": 0.02,
+    "Max_Size_Multiplier": 2
+  },
+  {
+    "Crop_id": 63,
+    "Crop_name": "Carrot",
+    "Seed_price": 10,
+    "Base_Sell_price": 20,
+    "Base_Weight_kg": 0.1,
+    "Max_Weight_kg": 0.3,
+    "Max_Size_Multiplier": 3
+  },
+  {
+    "Crop_id": 64,
+    "Crop_name": "Strawberry",
+    "Seed_price": 50,
+    "Base_Sell_price": 14,
+    "Base_Weight_kg": 0.05,
+    "Max_Weight_kg": 0.1,
+    "Max_Size_Multiplier": 2
+  }
+]
